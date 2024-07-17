@@ -1,0 +1,24 @@
+h1 {
+    background-color: aqua;
+    color: red;
+}
+
+h2 {
+    background-color: yellow;
+    color: red;
+}
+
+h3 {
+    background-color: rgb(240, 229, 213);
+    color: red;
+}
+
+.bold {
+    font-weight: bold;
+    color: blue;
+    font-size: 20px;
+}
+
+a {
+   text-decoration: none;
+}
